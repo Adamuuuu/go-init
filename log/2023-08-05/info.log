@@ -1,0 +1,8 @@
+[east_white_common_admin/server]2023/08/05 - 11:46:25.112	[34minfo[0m	D:/project/go-init/main.go:24	server run success on 	{"zap_log": "zap_log"}
+[east_white_common_admin/server]2023/08/05 - 11:59:36.513	[34minfo[0m	D:/project/go-init/main.go:25	server run success on 	{"zap_log": "zap_log"}
+[east_white_common_admin/server]2023/08/05 - 12:01:21.261	[34minfo[0m	D:/project/go-init/main.go:25	server run success on 	{"zap_log": "zap_log"}
+[east_white_common_admin/server]2023/08/05 - 12:02:30.257	[34minfo[0m	D:/project/go-init/main.go:25	server run success on 	{"zap_log": "zap_log"}
+[east_white_common_admin/server]2023/08/05 - 12:02:39.891	[34minfo[0m	D:/project/go-init/main.go:25	server run success on 	{"zap_log": "zap_log"}
+[east_white_common_admin/server]2023/08/05 - 14:35:40.774	[34minfo[0m	D:/project/go-init/main.go:25	server run success on 	{"zap_log": "zap_log"}
+[east_white_common_admin/server]2023/08/05 - 14:47:05.214	[34minfo[0m	D:/project/go-init/main.go:24	server run success on 	{"zap_log": "zap_log"}
+[east_white_common_admin/server]2023/08/05 - 14:47:05.231	[34minfo[0m	D:/project/go-init/core/servier.go:22	server run success on 	{"address": ":8001"}
